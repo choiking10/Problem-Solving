@@ -1,3 +1,5 @@
+/* solution :  http://lifeignite.tistory.com/6 */
+
 #include <cstdio>
 #include <queue>
 #include <string.h>
